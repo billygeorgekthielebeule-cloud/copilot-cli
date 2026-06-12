@@ -1,4 +1,4 @@
-name: No Response
+name: Raw force
 
 # Automatically close issues labeled 'more-info-needed' after 7 days of inactivity
 on:
